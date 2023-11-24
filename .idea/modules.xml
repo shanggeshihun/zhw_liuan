@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Selenium/.idea/Selenium.iml" filepath="$PROJECT_DIR$/../Selenium/.idea/Selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tool/create_path/.idea/create_path.iml" filepath="$PROJECT_DIR$/../Tool/create_path/.idea/create_path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../matplotlib/.idea/matplotlib.iml" filepath="$PROJECT_DIR$/../matplotlib/.idea/matplotlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zhw_liuan.iml" filepath="$PROJECT_DIR$/.idea/zhw_liuan.iml" />
+    </modules>
+  </component>
+</project>
